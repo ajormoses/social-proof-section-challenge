@@ -33,7 +33,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
     This task thought me how to be very cautious when manipulating divs 
 
   - [Continued development](#continued-development)
-    i'm open to learning and improvement and also to work on future projects in [FrontendMentor]
+    I'm open to learning and improvement and also to work on future projects in [FrontendMentor]
 
   - [Useful resources](#useful-resources)
     [ www.fonts.google.com ] - This site helped me to import the font-family Spartan to my design
