@@ -17,8 +17,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
     You will find all the required assets in the `/images` and `/design` folder. The assets are already optimized
 
   - [Links](#links)
-    Solution URL: [ https://github.com/ajormoses/social-proof-section-challenge.git ]
-    Live URL: [ https://ajormoses.github.io/social-proof-section-challenge/ ]
+    Solution URL: [https://github.com/ajormoses/social-proof-section-challenge.git]
+    Live URL: [https://ajormoses.github.io/social-proof-section-challenge/]
 
 - [My process](#my-process)
     1. I started by looking through the designs to start planning out how i will tackle the project. 
